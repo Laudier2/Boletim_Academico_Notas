@@ -9,3 +9,5 @@ apt-get install python3-pip
 apt-get install sqlitebrowser   
 
 Ao baixo e descompactar o programa, acesse a pasta e executa com seguinte comando abaixo.
+
+python3 Boletin_dos_Alunos.py
